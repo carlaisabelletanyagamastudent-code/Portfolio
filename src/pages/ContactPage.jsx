@@ -25,15 +25,15 @@ function ContactPage() {
 
         <article className="rounded-2xl border border-slate-200 bg-white p-4">
           <p className="text-xs font-semibold uppercase tracking-widest text-slate-500">
-            LinkedIn
+            Vercel
           </p>
           <a
             className="mt-1 block font-medium text-slate-900 hover:text-blue-600"
-            href="https://www.linkedin.com/in/carla-isabelle-mamaed-tanyag-b96a223b1/"
+            href="https://vercel.com"
             rel="noreferrer"
             target="_blank"
           >
-            https://www.linkedin.com/in/carla-isabelle-mamaed-tanyag-b96a223b1/
+            https://vercel.com
           </a>
         </article>
 
